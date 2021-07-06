@@ -13,4 +13,4 @@ Complex Intell. Syst. https://doi.org/10.1007/s40747-021-00422-w
 
 Bryar A. Hassan, Tarik A. Rashid, Seyedali Mirjalili (2021). Performance evaluation results of evolutionary clustering algorithm star for clustering heterogeneous datasets, 
 Data in Brief, 2021, 107044, ISSN 2352-3409, https://doi.org/10.1016/j.dib.2021.107044.
-*/
+
